@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Lidio Manoel
 
-<!--
-**lidiomanoel/lidiomanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Sobre mim
+Atuo como **assistente de dados**, apaixonado por tecnologia, dados e soluções inovadoras.
 
-Here are some ideas to get you started:
+## 🛠️ Principais habilidades
+- Python
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lidiomanoel-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/lidiomanoel/)
+
+## 📊 Minhas linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lidiomanoel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> "Apaixonado por aprender e compartilhar conhecimento!"
