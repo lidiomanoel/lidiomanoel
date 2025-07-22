@@ -18,3 +18,5 @@ Atuo como **assistente de dados**, apaixonado por tecnologia, dados e soluções
 ---
 
 > "Apaixonado por aprender e compartilhar conhecimento!"
+
+Sou apaixonado por tecnologia desde a infância, e gosto muito do universo da tecnologia e da programação.
